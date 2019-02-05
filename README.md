@@ -12,6 +12,7 @@ This is a Login Form and my first Project with HTML,CSS and Python CGI.
 To view this work,
 
 STEP-1 : Download this repository.
+
 Step-2 : open index.html using a browser (or)
 
 [CLICK HERE](https://siddartha19.github.io/login-form/)
