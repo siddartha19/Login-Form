@@ -13,6 +13,7 @@ To view this work,
 
 STEP-1 : Download this repository.
 
-Step-2 : open index.html using a browser (or)
+Step-2 : open index.html using a browser.
 
-[CLICK HERE](https://siddartha19.github.io/login-form/)
+
+# Live Website: [CLICK HERE](https://siddartha19.github.io/login-form/)
